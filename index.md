@@ -5,6 +5,8 @@ nav: true
 
 # Workshop on Understanding, Mitigating, and Leveraging Cognitive Biases to Calibrate Trust in Evolving AI Systems
 
+*An Invited Workshop at [CHI 2026](https://chi2026.acm.org/) in Bacelona Spain (April 13-17, 2026)*
+
 {% include figure.html img="forward-thinking-illustration.png" alt="biases in emerging AI" caption="Image by Hyung Taek Yoon" width="75%" %}
 
 Despite decades of advancements in Artificial Intelligence (AI), fostering appropriate trust in AI systems remains a challenge. Cognitive biases — systematic deviations from rational judgement — profoundly influence human decision-making, and reliance on such "mental shortcuts" can make AI systems appear more or less trustworthy than they really are, often undermining collaboration outcomes. As AI evolves with more sophisticated and persuasive natural language outputs, particularly through Generative AI (GenAI) and Large Language Models (LLMs), these biases may manifest in new and unpredictable ways, calling for their comprehensive examination. This workshop builds on a series of prior workshops at [CSCW '23](https://dl.acm.org/doi/abs/10.1145/3584931.3611284), [Dagstuhl Seminar 22172](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/22172), [CHI '21](https://dl.acm.org/doi/abs/10.1145/3411763.3441350), and [CHI '20](https://dl.acm.org/doi/abs/10.1145/3334480.3375159), which examined the design of technologies that support human cognition and decision-making through the lens of cognitive biases. While these earlier workshops established the importance of recognising biases in decision-making, this proposed workshop extends the conversation to the specific and timely context of trust calibration in AI systems, particularly in light of emerging paradigms such as Generative AI and LLMs. As a specialised extension, it represents the continuation of an established HCI research agenda, while also advancing it to proactively shape how cognitive biases are understood, mitigated, and leveraged in the design of trustworthy AI systems.
@@ -37,7 +39,7 @@ This 90–minute workshop invites diverse researchers from HCI, human–centred 
 * Notification: March 21, 2026
 * Workshop Date: TBA (April 13-17, 2026)
 
-> **NOTE:** There is no additional Cost for Participation — CHI 2026 workshops are included with conference registration and do not require an additional fee for attendees.
+> **NOTE:** There is no additional Cost for Participation — CHI 2026 workshops are included with [conference registration](https://chi2026.acm.org/attendees/registration/) and do not require an additional fee for attendees.
 
 We invite participants to submit a paper in one of the following forms: 
 * an essay (1–2 pages) stating their research background and motivation for attending this workshop
