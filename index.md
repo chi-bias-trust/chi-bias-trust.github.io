@@ -69,24 +69,22 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
       <img src="images/Saumya.png" alt="Saumya Pareek" width="100"/>
     </td>
     <td>
-      **Saumya Pareek**
+      <b>Saumya Pareek</b>
       <br>
-      *PhD Candidate, University of Melbourne*
+      PhD Candidate, University of Melbourne
       <br>
-      A short bio or description.
     </td>
   </tr>
 
 <tr>
     <td style="padding-right: 20px;">
-      <img src="images/Saumya.png" alt="Saumya Pareek" width="100"/>
+      <img src="images/Natt.jpeg" alt="Nattapat Boonprakong" width="100"/>
     </td>
     <td>
-      **Saumya Pareek**
+      <b>Saumya Pareek</b>
       <br>
-      *PhD Candidate, University of Melbourne*
+      Postdoctoral Research Fellow, National University of Singapore
       <br>
-      A short bio or description.
     </td>
   </tr>
  
