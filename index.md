@@ -52,16 +52,6 @@ Please submit via the Google form: [https://forms.gle/8gCa1TAffyNEyA2T9](https:/
 For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmail.com](mailto:bias4trust.chiws@gmail.com)
 
 # Organisers
-* Saumya Pareek (University of Melbourne)
-* Nattapat Boonprakong (National University of Singapore)
-* Naja Kathrine Kollerup (Aalborg University)
-* Si Chen (University of Notre Dame)
-* Simo Hosio (University of Oulu)
-* Koji Yatani (University of Tokyo)
-* Yi-Chieh (EJ) Lee (National University of Singapore)
-* Ujwal Gadiraju (Delft University of Technology)
-* Niels van Berkel (Aalborg University)
-* Jorge Goncalves (University of Melbourne)
 
 <table>
   <tr>
