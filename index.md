@@ -1,5 +1,6 @@
 ---
 title: Home
+nav: true
 ---
 
 # Workshop on Understanding, Mitigating, and Leveraging Cognitive Biases to Calibrate Trust in Evolving AI Systems
