@@ -41,7 +41,7 @@ This 90–minute workshop invites diverse researchers from HCI, human–centred 
 
 > **NOTE:** There is no additional Cost for Participation — CHI 2026 workshops are included with [conference registration](https://chi2026.acm.org/attendees/registration/) and do not require an additional fee for attendees.
 
-We invite participants to submit a paper in one of the following forms: 
+We invite participants to submit a contribution in one of the following forms: 
 * an essay (1–2 pages) stating their research background and motivation for attending this workshop
 * a short / abridged paper (2–4 pages excluding references) presenting research contributions that align with one or more of the workshop topics. 
 
