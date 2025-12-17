@@ -15,7 +15,7 @@ We put forth three focused topics sitting at the intersection of cognitive biase
 ## 1. Topic I: Understanding and Mapping Biases in Human–AI Interaction
 Despite decades of research, the ways cognitive biases shape user trust and reliance in AI systems remain under-characterised, and are also consistently evolving as AI evolves. Scholars also argue that there is a plethora of systematic effects not accounted for as cognitive biases. 
 
-**We ask:** In what ways can cognitive biases manifest in human–AI interaction across domains and tasks (e.g., structured decision support vs. conversational LLM settings)? Where do biases typically arise in the human–AI interaction pipeline? How are these biases currently operationalised in research, or where might their role be overlooked? What patterns of over- and under-reliance emerge as a result of these biases? Can behaviours observed in existing empirical human–AI research be explained, at least in part, through these heuristics and biases? To support this mapping, we urge participants to draw on established cognitive bias clusters such as Too Much Information, Not Enough Meaning, Need to Act Fast, and Memory Limitations. These clusters can be found here, and a cheat sheet here.
+**We ask:** In what ways can cognitive biases manifest in human–AI interaction across domains and tasks (e.g., structured decision support vs. conversational LLM settings)? Where do biases typically arise in the human–AI interaction pipeline? How are these biases currently operationalised in research, or where might their role be overlooked? What patterns of over- and under-reliance emerge as a result of these biases? Can behaviours observed in existing empirical human–AI research be explained, at least in part, through these heuristics and biases? To support this mapping, we urge participants to draw on established cognitive bias clusters such as Too Much Information, Not Enough Meaning, Need to Act Fast, and Memory Limitations. These clusters can be found [here](https://www.sog.unc.edu/sites/www.sog.unc.edu/files/course_materials/Cognitive%20Biases%20Codex.pdf), and a cheat sheet [here](https://buster.medium.com/cognitive-bias-cheat-sheet-55a472476b18).
 
 ## 2. Topic II: Design Strategies — Mitigating Biases and Leveraging Heuristics
 This topic considers how to effectively respond to biases through meaningful design, without falling into overly corrective approaches or those that sacrifice user agency or experience.
@@ -49,6 +49,16 @@ Please submit via the Google form: [https://forms.gle/8gCa1TAffyNEyA2T9](https:/
 For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmail.com](mailto:bias4trust.chiws@gmail.com)
 
 # Organisers
+* Saumya Pareek (University of Melbourne)
+* Nattapat Boonprakong (National University of Singapore)
+* Naja Kathrine Kollerup (Aalborg University)
+* Si Chen (University of Notre Dame)
+* Simo Hosio (University of Oulu)
+* Koji Yatani (University of Tokyo)
+* Yi-Chieh (EJ) Lee (National University of Singapore)
+* Ujwal Gadiraju (Delft University of Technology)
+* Niels van Berkel (Aalborg University)
+* Jorge Goncalves (University of Melbourne)
 
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
