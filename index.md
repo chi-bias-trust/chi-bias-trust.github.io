@@ -36,7 +36,7 @@ This 90–minute workshop invites diverse researchers from HCI, human–centred 
 * Notification: March 21, 2026
 * Workshop Date: TBA (April 13-17, 2026)
 
-**NOTE:** There is no additional Cost for Participation — CHI 2026 workshops are included with conference registration and do not require an additional fee for attendees.
+> **NOTE:** There is no additional Cost for Participation — CHI 2026 workshops are included with conference registration and do not require an additional fee for attendees.
 
 We invite participants to submit a paper in one of the following forms: 
 * an essay (1–2 pages) stating their research background and motivation for attending this workshop
