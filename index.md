@@ -63,7 +63,7 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
 * Niels van Berkel (Aalborg University)
 * Jorge Goncalves (University of Melbourne)
 
-{% include figure.html <img src="forward-thinking-illustration.png" style="float: left; margin-right: 15px;"> %}
+<img src="images/forward-thinking-illustration.png" style="float: left; margin-right: 15px;">
 
 This text will appear to the right of the image and wrap around it as it gets longer.
 
