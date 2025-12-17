@@ -5,7 +5,7 @@ nav: true
 
 # Workshop on Understanding, Mitigating, and Leveraging Cognitive Biases to Calibrate Trust in Evolving AI Systems
 
-*An Invited Workshop at [CHI 2026](https://chi2026.acm.org/) in Barcelona, Spain (April 13-17, 2026)*
+*A Workshop at [CHI 2026](https://chi2026.acm.org/) in Barcelona, Spain (April 13-17, 2026)*
 
 {% include figure.html img="forward-thinking-illustration.png" alt="biases in emerging AI" caption="Image by Hyung Taek Yoon" width="75%" %}
 
@@ -15,17 +15,17 @@ Despite decades of advancements in Artificial Intelligence (AI), fostering appro
 
 We put forth three focused topics sitting at the intersection of cognitive biases and trust calibration in AI systems. Each topic addresses a critical challenge in aligning human trust with AI capabilities, while accounting for the realities of human cognition.
 
-## 1. Topic I: Understanding and Mapping Biases in Human–AI Interaction
+## Topic I: Understanding and Mapping Biases in Human–AI Interaction
 Despite decades of research, the ways cognitive biases shape user trust and reliance in AI systems remain under-characterised, and are also consistently evolving as AI evolves. Scholars also argue that there is a plethora of systematic effects not accounted for as cognitive biases. 
 
 **We ask:** In what ways can cognitive biases manifest in human–AI interaction across domains and tasks (e.g., structured decision support vs. conversational LLM settings)? Where do biases typically arise in the human–AI interaction pipeline? How are these biases currently operationalised in research, or where might their role be overlooked? What patterns of over- and under-reliance emerge as a result of these biases? Can behaviours observed in existing empirical human–AI research be explained, at least in part, through these heuristics and biases? To support this mapping, we urge participants to draw on established cognitive bias clusters such as *Too Much Information*, *Not Enough Meaning*, *Need to Act Fast*, and *Memory Limitations*. These clusters can be found [here](https://www.sog.unc.edu/sites/www.sog.unc.edu/files/course_materials/Cognitive%20Biases%20Codex.pdf), and a cheat sheet [here](https://buster.medium.com/cognitive-bias-cheat-sheet-55a472476b18).
 
-## 2. Topic II: Design Strategies — Mitigating Biases and Leveraging Heuristics
+## Topic II: Design Strategies — Mitigating Biases and Leveraging Heuristics
 This topic considers how to effectively respond to biases through meaningful design, without falling into overly corrective approaches or those that sacrifice user agency or experience.
 
 **We ask:** What interventions (e.g., transparency scaffolds, system framing, delays before seeing AI response, just-in-time cues, or behavioural “nudges”) could mitigate the harmful effects of biases without undermining user autonomy, understanding, or accuracy? What are some design tensions at play here, and what ethical trade-offs emerge? When and (should) cognitive biases and heuristics be harnessed to improve trust calibration? How can we design AI systems with cognitive biases and heuristics in mind? What novel design solutions could LLMs offer to mitigate/leverage cognitive biases?
 
-## 3. Topic III: Methods and Case Studies
+## Topic III: Methods and Case Studies
 Studying how biases and heuristics shape trust is methodologically complex: these phenomena are often tacit and context-sensitive. The HCI community lacks a common standard to study cognitive biases. This topic invites reflection on how best to empirically capture, quantify, or observe trust miscalibration driven by biases — whether in the lab or even in the wild. 
 
 **We ask:** What tools, study designs, measures, and signals may capture, quantify, or observe bias-driven trust dynamics? What blind spots exist in our empirical approaches today, and what would more robust, ecologically valid, and interdisciplinary approaches entail?
@@ -45,7 +45,7 @@ We invite participants to submit a contribution in one of the following forms:
 * an essay (1–2 pages) stating their research background and motivation for attending this workshop
 * a short / abridged paper (2–4 pages excluding references) presenting research contributions that align with one or more of the workshop topics. 
 
-Submissions should follow [the CHI Extended Abstract template](https://chi2026.acm.org/chi-publication-formats/) and will be reviewed by the organising committee based on relevance to the workshop topics and diversity of perspectives. 
+Submissions should follow [the CHI Extended Abstract template](https://chi2026.acm.org/chi-publication-formats/), using a single-column format, and will be reviewed by the organising committee based on relevance to the workshop topics and diversity of perspectives.
 
 Please submit via the Google form: [https://forms.gle/8gCa1TAffyNEyA2T9](https://forms.gle/8gCa1TAffyNEyA2T9)
 
