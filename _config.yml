@@ -8,15 +8,15 @@
 
 # Site settings
 # title appears in the header
-title: Workshop on Understanding, Mitigating, and Leveraging Cognitive Biases to Calibrate Trust in Evolving AI Systems
+title: Cognitive Bias to Calibrate Trust in AI - CHI 2026 Workshop
 # description and keywords for meta tags
 description: "CHI 2026 Workshop"
 keywords: ""
 
 # author settings for cc-by, appears in the footer
-author: chi-bias-trust
-pub_year: 2025
-github_username: chi-bias-trust
+#author: chi-bias-trust
+#pub_year: 2025
+#github_username: chi-bias-trust
 
 # add the full url for the github repository
 #repo: "https://github.com/evanwill/workshop-template"
