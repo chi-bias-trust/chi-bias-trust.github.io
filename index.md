@@ -12,50 +12,41 @@ Despite decades of advancements in Artificial Intelligence (AI), fostering appro
 
 We put forth three focused topics sitting at the intersection of cognitive biases and trust calibration in AI systems. Each topic addresses a critical challenge in aligning human trust with AI capabilities, while accounting for the realities of human cognition.
 
-**1. Topic I: Understanding and Mapping Biases in Human–AI Interaction**
-    a. Despite decades of research, the ways cognitive biases shape user trust and reliance in AI systems remain under-characterised, and are also consistently evolving as AI evolves. Scholars also argue that there is a plethora of systematic effects not accounted for as cognitive biases. 
-    b. **We ask:** In what ways can cognitive biases manifest in human–AI interaction across domains and tasks (e.g., structured decision support vs. conversational LLM settings)? Where do biases typically arise in the human–AI interaction pipeline? How are these biases currently operationalised in research, or where might their role be overlooked? What patterns of over- and under-reliance emerge as a result of these biases? Can behaviours observed in existing empirical human–AI research be explained, at least in part, through these heuristics and biases? To support this mapping, we urge participants to draw on established cognitive bias clusters such as Too Much Information, Not Enough Meaning, Need to Act Fast, and Memory Limitations. These clusters can be found here, and a cheat sheet here.
+## 1. Topic I: Understanding and Mapping Biases in Human–AI Interaction
+Despite decades of research, the ways cognitive biases shape user trust and reliance in AI systems remain under-characterised, and are also consistently evolving as AI evolves. Scholars also argue that there is a plethora of systematic effects not accounted for as cognitive biases. 
 
-**2. Topic II: Design Strategies — Mitigating Biases and Leveraging Heuristics:**
-    a. This topic considers how to effectively respond to biases through meaningful design, without falling into overly corrective approaches or those that sacrifice user agency or experience.
-    b. **We ask:** What interventions (e.g., transparency scaffolds, system framing, delays before seeing AI response, just-in-time cues, or behavioural “nudges”) could mitigate the harmful effects of biases without undermining user autonomy, understanding, or accuracy? What are some design tensions at play here, and what ethical trade-offs emerge? When and (should) cognitive biases and heuristics be harnessed to improve trust calibration? How can we design AI systems with cognitive biases and heuristics in mind? What novel design solutions could LLMs offer to mitigate/leverage cognitive biases?
+**We ask:** In what ways can cognitive biases manifest in human–AI interaction across domains and tasks (e.g., structured decision support vs. conversational LLM settings)? Where do biases typically arise in the human–AI interaction pipeline? How are these biases currently operationalised in research, or where might their role be overlooked? What patterns of over- and under-reliance emerge as a result of these biases? Can behaviours observed in existing empirical human–AI research be explained, at least in part, through these heuristics and biases? To support this mapping, we urge participants to draw on established cognitive bias clusters such as Too Much Information, Not Enough Meaning, Need to Act Fast, and Memory Limitations. These clusters can be found here, and a cheat sheet here.
 
-**3. Topic III: Methods and Case Studies:**
-    a. Studying how biases and heuristics shape trust is methodologically complex: these phenomena are often tacit and context-sensitive. The HCI community lacks a common standard to study cognitive biases. This topic invites reflection on how best to empirically capture, quantify, or observe trust miscalibration driven by biases — whether in the lab or even in the wild. 
-    b. **We ask:** What tools, study designs, measures, and signals may capture, quantify, or observe bias-driven trust dynamics? What blind spots exist in our empirical approaches today, and what would more robust, ecologically valid, and interdisciplinary approaches entail?
+## 2. Topic II: Design Strategies — Mitigating Biases and Leveraging Heuristics
+This topic considers how to effectively respond to biases through meaningful design, without falling into overly corrective approaches or those that sacrifice user agency or experience.
+
+**We ask:** What interventions (e.g., transparency scaffolds, system framing, delays before seeing AI response, just-in-time cues, or behavioural “nudges”) could mitigate the harmful effects of biases without undermining user autonomy, understanding, or accuracy? What are some design tensions at play here, and what ethical trade-offs emerge? When and (should) cognitive biases and heuristics be harnessed to improve trust calibration? How can we design AI systems with cognitive biases and heuristics in mind? What novel design solutions could LLMs offer to mitigate/leverage cognitive biases?
+
+## 3. Topic III: Methods and Case Studies
+Studying how biases and heuristics shape trust is methodologically complex: these phenomena are often tacit and context-sensitive. The HCI community lacks a common standard to study cognitive biases. This topic invites reflection on how best to empirically capture, quantify, or observe trust miscalibration driven by biases — whether in the lab or even in the wild. 
+
+**We ask:** What tools, study designs, measures, and signals may capture, quantify, or observe bias-driven trust dynamics? What blind spots exist in our empirical approaches today, and what would more robust, ecologically valid, and interdisciplinary approaches entail?
 
 # Workshop Goal
 This 90–minute workshop invites diverse researchers from HCI, human–centred AI, cognitive psychology, interaction design, and related fields to collaboratively explore how cognitive biases influence trust calibration in human–AI interaction and establish a research agenda. We will explore how biases emerge across the human–AI interaction pipeline, what design strategies can mitigate or even harness these heuristics, and what methods are needed to study these dynamics effectively. Through a highly interactive 90-minute session, participants will map out open challenges, brainstorm tensions and solutions, chart future research directions, and share perspectives from their own diverse disciplinary lenses. Through this workshop, we aim to build a shared understanding of how cognitive biases influence trust in evolving AI systems, and derive a forward-looking, bias-aware research agenda that promotes appropriate trust in human–AI interaction.
 
 # Participation
 
-<h1 style="text-align: center;"> Submission</h1>
-<h1 style="text-align: center;"> March 1, 2026, 11:59 PM (Anywhere on Earth)</h1>
+* Submission Deadline: March 1, 2026, 11:59 PM (Anywhere on Earth)
+* Notification: March 21, 2026
+* Workshop Date: TBA (April 13-17, 2026)
 
-<h1 style="text-align: center;"> Notification</h1>
-<h1 style="text-align: center;"> March 21, 2026</h1>
-
-<h1 style="text-align: center;"> Workshop</h1>
-<h1 style="text-align: center;"> TBA</h1>
-
-<h1 style="text-align: center;"> Contact</h1>
-<h1 style="text-align: center;"> bias4trust.chiws@gmail.com</h1>
-
-NOTE: No Additional Cost for Participation — participation in workshops is included with conference registration and does not require an additional fee for attendees.
+**NOTE:** There is no additional Cost for Participation — CHI 2026 workshops are included with conference registration and do not require an additional fee for attendees.
 
 We invite participants to submit a paper in one of the following forms: 
-(1) an essay (1–2 pages) stating their research background and motivation for attending this workshop,
-(2) a short / abridged paper (2–4 pages excluding references) presenting research contributions that align with one or more of the workshop topics. 
+* an essay (1–2 pages) stating their research background and motivation for attending this workshop
+* a short / abridged paper (2–4 pages excluding references) presenting research contributions that align with one or more of the workshop topics. 
 
-Submissions should follow the CHI Extended Abstract template [https://chi2026.acm.org/chi-publication-formats/] and will be evaluated based on relevance. 
+Submissions should follow [the CHI Extended Abstract template](https://chi2026.acm.org/chi-publication-formats/) and will be evaluated based on relevance to the workshop topics and diversity of perspectives. 
 
-Please submit via the Google form: https://forms.gle/8gCa1TAffyNEyA2T9
+Please submit via the Google form: [https://forms.gle/8gCa1TAffyNEyA2T9](https://forms.gle/8gCa1TAffyNEyA2T9)
 
-#<div class="toc" markdown="1">
-#{% for lesson in site.pages %}
-#{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
-#{% endfor %}
-#</div>
+For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmail.com](mailto:bias4trust.chiws@gmail.com)
 
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
