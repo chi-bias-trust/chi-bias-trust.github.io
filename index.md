@@ -69,9 +69,9 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
       <img src="images/Saumya.png" alt="Saumya Pareek" width="100"/>
     </td>
     <td>
-      <b>Saumya Pareek</b>
+      <b>Saumya Pareek</b> (University of Melbourne)
       <br>
-      PhD Candidate, University of Melbourne
+      Saumya is a PhD candidate at the University of Melbourne, Australia. Her research focuses on identifying and understanding the factors that shape users' trust in AI systems, and leveraging these insights to design strategies that help users calibrate their trust in AI systems effectively.
       <br>
     </td>
   </tr>
@@ -81,9 +81,9 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
       <img src="images/Natt.jpeg" alt="Nattapat Boonprakong" width="100"/>
     </td>
     <td>
-      <b>Nattapat Boonprakong</b>
+      <b>Nattapat Boonprakong</b> (National University of Singapore)
       <br>
-      Postdoctoral Research Fellow, National University of Singapore
+      Nattapat is a Postdoctoral Research Fellow at the National University of Singapore. He investigates how cognitive biases manifest in the interaction between humans and computing systems and how they influence the designs of systems and user interfaces.
       <br>
     </td>
   </tr>
