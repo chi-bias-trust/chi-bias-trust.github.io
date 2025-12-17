@@ -1,6 +1,6 @@
 ---
 title: Intro
-nav: true
+nav: false
 ---
 
 # Introduction
