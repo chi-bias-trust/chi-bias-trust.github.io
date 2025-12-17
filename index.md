@@ -63,46 +63,13 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
 * Niels van Berkel (Aalborg University)
 * Jorge Goncalves (University of Melbourne)
 
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="forward-thinking-illustration.png" alt="Jane" style="width:100%">
-      <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO &amp; Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
+<img src="forward-thinking-illustration.png" style="float: left; margin-right: 15px;">
 
-  <div class="column">
-    <div class="card">
-      <img src="forward-thinking-illustration.png" alt="Mike" style="width:100%">
-      <div class="container">
-        <h2>Mike Ross</h2>
-        <p class="title">Art Director</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
+This text will appear to the right of the image and wrap around it as it gets longer.
 
-  <div class="column">
-    <div class="card">
-      <img src="forward-thinking-illustration.png" alt="John" style="width:100%">
-      <div class="container">
-        <h2>John Doe</h2>
-        <p class="title">Designer</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-</div>
+<br clear="left"/> 
+
+This text will appear below the image and the wrapped text.
 
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
