@@ -81,7 +81,7 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
       <img src="images/Natt.jpeg" alt="Nattapat Boonprakong" width="100"/>
     </td>
     <td>
-      <b>Saumya Pareek</b>
+      <b>Nattapat Boonprakong</b>
       <br>
       Postdoctoral Research Fellow, National University of Singapore
       <br>
