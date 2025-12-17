@@ -63,9 +63,34 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
 * Niels van Berkel (Aalborg University)
 * Jorge Goncalves (University of Melbourne)
 
-<img src="images/Saumya.png" style="float: left; margin-right: 15px;">
+<table>
+  <tr>
+    <td style="padding-right: 20px;">
+      <img src="images/Saumya.png" alt="Saumya Pareek" width="100"/>
+    </td>
+    <td>
+      **Saumya Pareek**
+      <br>
+      *PhD Candidate, University of Melbourne*
+      <br>
+      A short bio or description.
+    </td>
+  </tr>
 
-Saumya Pareek
+<tr>
+    <td style="padding-right: 20px;">
+      <img src="images/Saumya.png" alt="Saumya Pareek" width="100"/>
+    </td>
+    <td>
+      **Saumya Pareek**
+      <br>
+      *PhD Candidate, University of Melbourne*
+      <br>
+      A short bio or description.
+    </td>
+  </tr>
+ 
+</table>
 
 <br clear="left"/> 
 
