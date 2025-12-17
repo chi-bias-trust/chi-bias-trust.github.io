@@ -69,9 +69,9 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
       <img src="images/Saumya.png" alt="Saumya Pareek" width="100"/>
     </td>
     <td>
-      <b>Saumya Pareek</b> (University of Melbourne)
+      <b>Saumya Pareek</b>
       <br>
-      Saumya is a PhD candidate at the University of Melbourne, Australia. Her research focuses on identifying and understanding the factors that shape users' trust in AI systems, and leveraging these insights to design strategies that help users calibrate their trust in AI systems effectively.
+      <i>PhD Candidate, University of Melbourne</i>
       <br>
     </td>
   </tr>
@@ -81,9 +81,105 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
       <img src="images/Natt.jpeg" alt="Nattapat Boonprakong" width="100"/>
     </td>
     <td>
-      <b>Nattapat Boonprakong</b> (National University of Singapore)
+      <b>Nattapat Boonprakong</b>
       <br>
-      Nattapat is a Postdoctoral Research Fellow at the National University of Singapore. He investigates how cognitive biases manifest in the interaction between humans and computing systems and how they influence the designs of systems and user interfaces.
+      <i>Postdoctoral Research Fellow, National University of Singapore</i>
+      <br>
+    </td>
+  </tr>
+
+<tr>
+    <td style="padding-right: 20px;">
+      <img src="images/Naja.jpeg" alt="Naja Kathrine Kollerup" width="100"/>
+    </td>
+    <td>
+      <b>Naja Kathrine Kollerup</b>
+      <br>
+      <i>PhD Candidate, Aalborg University</i>
+      <br>
+    </td>
+  </tr>
+
+<tr>
+    <td style="padding-right: 20px;">
+      <img src="images/Si.jpg" alt="Si Chen" width="100"/>
+    </td>
+    <td>
+      <b>Si Chen</b>
+      <br>
+      <i>Postdoctoral Research Fellow, University of Notre Dame</i>
+      <br>
+    </td>
+  </tr>
+
+<tr>
+    <td style="padding-right: 20px;">
+      <img src="images/Simo.jpeg" alt="Simo Hosio" width="100"/>
+    </td>
+    <td>
+      <b>Simo Hosio</b>
+      <br>
+      <i>Professor, University of Oulu</i>
+      <br>
+    </td>
+  </tr>
+
+<tr>
+    <td style="padding-right: 20px;">
+      <img src="images/Koji.jpeg" alt="Koji Yatani" width="100"/>
+    </td>
+    <td>
+      <b>Koji Yatani</b>
+      <br>
+      <i>Associate Professor, University of Tokyo</i>
+      <br>
+    </td>
+  </tr>
+
+<tr>
+    <td style="padding-right: 20px;">
+      <img src="images/Yi-Chieh.jpg" alt="Yi-Chieh Lee" width="100"/>
+    </td>
+    <td>
+      <b>Yi-Chieh (EJ) Lee</b>
+      <br>
+      <i>Assistant Professor, National University of Singapore</i>
+      <br>
+    </td>
+  </tr>
+
+<tr>
+    <td style="padding-right: 20px;">
+      <img src="images/Ujwal.jpg" alt="Ujwal Gadiraju" width="100"/>
+    </td>
+    <td>
+      <b>Ujwal Gadiraju</b>
+      <br>
+      <i>Associate Professor, Delft University of Technology</i>
+      <br>
+    </td>
+  </tr>
+
+<tr>
+    <td style="padding-right: 20px;">
+      <img src="images/Niels.jpg" alt="Niels van Berkel" width="100"/>
+    </td>
+    <td>
+      <b>Niels van Berkel</b>
+      <br>
+      <i>Professor, Aalborg University</i>
+      <br>
+    </td>
+  </tr>
+
+<tr>
+    <td style="padding-right: 20px;">
+      <img src="images/Jorge.jpg" alt="Jorge Goncalves" width="100"/>
+    </td>
+    <td>
+      <b>Jorge Goncalves</b>
+      <br>
+      <i>Associate Professor, University of Melbourne</i>
       <br>
     </td>
   </tr>
