@@ -61,7 +61,7 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
     <td>
       <b>Saumya Pareek</b>
       <br>
-      <i>PhD Candidate, University of Melbourne</i>
+      <i>PhD Candidate, University of Melbourne, Australia</i>
       <br>
     </td>
   </tr>
@@ -73,7 +73,7 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
     <td>
       <b>Nattapat Boonprakong</b>
       <br>
-      <i>Postdoctoral Research Fellow, National University of Singapore</i>
+      <i>Postdoctoral Research Fellow, National University of Singapore, Singapore</i>
       <br>
     </td>
   </tr>
@@ -85,7 +85,7 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
     <td>
       <b>Naja Kathrine Kollerup</b>
       <br>
-      <i>PhD Candidate, Aalborg University</i>
+      <i>PhD Candidate, Aalborg University, Denmark</i>
       <br>
     </td>
   </tr>
@@ -97,7 +97,7 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
     <td>
       <b>Si Chen</b>
       <br>
-      <i>Postdoctoral Research Fellow, University of Notre Dame</i>
+      <i>Postdoctoral Research Fellow, University of Notre Dame, USA</i>
       <br>
     </td>
   </tr>
@@ -109,7 +109,7 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
     <td>
       <b>Simo Hosio</b>
       <br>
-      <i>Professor, University of Oulu</i>
+      <i>Professor, University of Oulu, Finland</i>
       <br>
     </td>
   </tr>
@@ -121,7 +121,7 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
     <td>
       <b>Koji Yatani</b>
       <br>
-      <i>Associate Professor, University of Tokyo</i>
+      <i>Associate Professor, University of Tokyo, Japan</i>
       <br>
     </td>
   </tr>
@@ -133,7 +133,7 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
     <td>
       <b>Yi-Chieh (EJ) Lee</b>
       <br>
-      <i>Assistant Professor, National University of Singapore</i>
+      <i>Assistant Professor, National University of Singapore, Singapore</i>
       <br>
     </td>
   </tr>
@@ -145,7 +145,7 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
     <td>
       <b>Ujwal Gadiraju</b>
       <br>
-      <i>Associate Professor, Delft University of Technology</i>
+      <i>Associate Professor, Delft University of Technology, the Netherlands</i>
       <br>
     </td>
   </tr>
@@ -157,7 +157,7 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
     <td>
       <b>Niels van Berkel</b>
       <br>
-      <i>Professor, Aalborg University</i>
+      <i>Professor, Aalborg University, Denmark</i>
       <br>
     </td>
   </tr>
@@ -169,7 +169,7 @@ For inquiries regarding the workshop, please reach out to [bias4trust.chiws@gmai
     <td>
       <b>Jorge Goncalves</b>
       <br>
-      <i>Associate Professor, University of Melbourne</i>
+      <i>Associate Professor, University of Melbourne, Australia</i>
       <br>
     </td>
   </tr>
