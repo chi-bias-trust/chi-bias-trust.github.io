@@ -10,7 +10,7 @@ Calibrating trust in AI systems remains a persistent challenge: users often stru
 For inquiries regarding the workshop, please reach out to us via [bias4trust.chiws@gmail.com](mailto:bias4trust.chiws@gmail.com)
 
 # Key Dates
-* **Submission Deadline:** March 1, 2026, 11:59 PM (Anywhere on Earth)
+* **Submission Deadline:** February 12, 2026, 11:59 PM (Anywhere on Earth)
 * **Notification:** March 21, 2026
 * **Workshop Day:** TBA
 
