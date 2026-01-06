@@ -35,7 +35,7 @@ This 90–minute workshop invites diverse researchers from HCI, human–centred 
 
 # Participation
 
-* Submission Deadline: March 1, 2026, 11:59 PM (Anywhere on Earth)
+* Submission Deadline: February 12, 2026, 11:59 PM (Anywhere on Earth)
 * Notification: March 21, 2026
 * Workshop Date: TBA (April 13-17, 2026)
 
