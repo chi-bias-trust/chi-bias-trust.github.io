@@ -21,6 +21,9 @@ For inquiries regarding the workshop, please reach out to us via [bias4trust.chi
 * I have accepted full papers/posters at CHI 2026. Can I reuse my work for the workshop submission?
 > Yes, you are welcome to reuse part(s) of your work. Workshop submissions will be evaluated based on their relevance to the workshop topics, quality of the work, and diversity of the perspectives.
 
+* Can I attend this workshop online?
+> No, all workshops at CHI 2026 are in person.
+
 * How is the review process like?
 > All submissions will be reviewed by the organising committee in a single-blind manner, which means you are welcome to disclose the authors' names and affiliations, while reviewers are anonymous. Successful submissions will be notified through the lead author's contact email address.
 
