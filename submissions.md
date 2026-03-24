@@ -7,7 +7,7 @@ nav: true
 
 {% assign papers = site.data.papers %}
 {% for paper in papers %}
-{% if paper.show_pdf == "Yes" %}
+{% if paper.show_pdf == "TRUE" %}
 
 ### {{ paper.title }}
 **{{ paper.authors }}**
