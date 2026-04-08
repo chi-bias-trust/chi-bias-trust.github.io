@@ -12,7 +12,7 @@ nav: true
 Please aim to arrive a few minutes early so we can get started on time — we only have 90 minutes and we want to make the most of it.
 
 
-## :spiral_calendar_pad: What to Expect
+## 🗓️ What to Expect
 
 This is a fully hands-on workshop — there are no presentations or talks. From the moment we start, we will be working in small groups through three activities:
 
