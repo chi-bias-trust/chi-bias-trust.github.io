@@ -6,8 +6,8 @@ nav: true
 
 ## :date: Time and Venue
 
-Monday 13 April, 2:15 PM – 3:45 PM
-Venue: P1 – Room 128
+* Monday 13 April, 2:15 PM – 3:45 PM
+* Venue: P1 – Room 128
 
 Please aim to arrive a few minutes early so we can get started on time — we only have 90 minutes and we want to make the most of it.
 
@@ -17,11 +17,11 @@ Please aim to arrive a few minutes early so we can get started on time — we on
 This is a fully hands-on workshop — there are no presentations or talks. From the moment we start, we will be working in small groups through three activities:
 
 
-Welcome and 'Bias Bingo' icebreaker (10 mins)
-**Activity 1**: Mapping cognitive biases across human-AI interaction scenarios + critically reflections (20 mins)
-**Activity 2**: Brainstorming (wild!) design interventions — mitigating biases and (controversially) leveraging heuristics (30 mins)
-**Activity 3**: What's missing and what should come — setting a research agenda (20 mins)
-**Closing notes**: Surfacing key patterns and reflections as a group (10 mins)
+* Welcome and 'Bias Bingo' icebreaker (10 mins)
+* **Activity 1**: Mapping cognitive biases across human-AI interaction scenarios + critically reflections (20 mins)
+* **Activity 2**: Brainstorming (wild!) design interventions — mitigating biases and (controversially) leveraging heuristics (30 mins)
+* **Activity 3**: What's missing and what should come — setting a research agenda (20 mins)
+* **Closing notes**: Surfacing key patterns and reflections as a group (10 mins)
 
 
 ## :door: Notes
@@ -39,9 +39,9 @@ Please also note: the workshop is in-person only — there is no hybrid or remot
 We are sharing a bias 'cheat sheet' to help you think about the different categories of biases that can exist in human-AI interactions.
 First, a reading on the key cognitive bias clusters we'll be drawing on during the workshop. Buster Benson's Cognitive Bias Cheat Sheet is a great orienting resource that organises the landscape of biases around four core problems our brains are trying to deal with:
 
-  • Too Much Information
-  • Not Enough Meaning
-  • Need to Act Fast
-  • Memory Limitations
+* Too Much Information
+* Not Enough Meaning
+* Need to Act Fast
+* Memory Limitations
 
-We'll be using these clusters explicitly during Activity 1, so it's worth having them in mind. You can read the full piece here: https://buster.medium.com/cognitive-bias-cheat-sheet-55a472476b18
+We'll be using these clusters explicitly during Activity 1, so it's worth having them in mind. You can read the full piece here: [https://buster.medium.com/cognitive-bias-cheat-sheet-55a472476b18](https://buster.medium.com/cognitive-bias-cheat-sheet-55a472476b18)
