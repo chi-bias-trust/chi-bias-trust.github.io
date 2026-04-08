@@ -4,7 +4,7 @@ nav: true
 ---
 # Workshop Schedule
 
-## Time and Venue
+## :date: Time and Venue
 
 Monday 13 April, 2:15 PM – 3:45 PM
 Venue: P1 – Room 128
@@ -12,7 +12,7 @@ Venue: P1 – Room 128
 Please aim to arrive a few minutes early so we can get started on time — we only have 90 minutes and we want to make the most of it.
 
 
-## What to Expect
+## :spiral_calendar_pad: What to Expect
 
 This is a fully hands-on workshop — there are no presentations or talks. From the moment we start, we will be working in small groups through three activities:
 
@@ -24,7 +24,7 @@ Welcome and 'Bias Bingo' icebreaker (10 mins)
 **Closing notes**: Surfacing key patterns and reflections as a group (10 mins)
 
 
-## Notes
+## :door: Notes
 
 Your laptop and charger — you will need them to contribute to the Miro board during activities.
 
