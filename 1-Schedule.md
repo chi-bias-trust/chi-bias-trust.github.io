@@ -4,7 +4,7 @@ nav: true
 ---
 # Workshop Schedule
 
-## :date: Time and Venue
+## 📅 Time and Venue
 
 * Monday 13 April, 2:15 PM – 3:45 PM
 * Venue: P1 – Room 128
@@ -24,7 +24,7 @@ This is a fully hands-on workshop — there are no presentations or talks. From 
 * **Closing notes**: Surfacing key patterns and reflections as a group (10 mins)
 
 
-## :door: Notes
+## 📝 Notes
 
 Your laptop and charger — you will need them to contribute to the Miro board during activities.
 
@@ -34,7 +34,7 @@ Please also note: the workshop is in-person only — there is no hybrid or remot
 
 
 
-## :books: Come Prepared: Bias Clusters and Provocation Scenarios
+## 📚 Come Prepared: Bias Clusters and Provocation Scenarios
 
 We are sharing a bias 'cheat sheet' to help you think about the different categories of biases that can exist in human-AI interactions.
 First, a reading on the key cognitive bias clusters we'll be drawing on during the workshop. Buster Benson's Cognitive Bias Cheat Sheet is a great orienting resource that organises the landscape of biases around four core problems our brains are trying to deal with:
