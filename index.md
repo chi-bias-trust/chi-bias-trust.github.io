@@ -5,9 +5,9 @@ nav: true
 
 # Workshop on Understanding, Mitigating, and Leveraging Cognitive Biases to Calibrate Trust in Evolving AI Systems
 
-*A Workshop at [CHI 2026](https://chi2026.acm.org/) in Barcelona, Spain *
+*A Workshop at [CHI 2026](https://chi2026.acm.org/) in Barcelona, Spain*
 
-* [2:15-3:45PM, P1 - Room 128](https://programs.sigchi.org/chi/2026/program/session/215003) *
+[2:15-3:45PM, P1 - Room 128](https://programs.sigchi.org/chi/2026/program/session/215003)*
 
 {% include figure.html img="forward-thinking-illustration.png" alt="biases in emerging AI" caption="Image by Hyung Taek Yoon" width="75%" %}
 
