@@ -49,3 +49,7 @@ We'll be using these clusters explicitly during Activity 1, so it's worth having
 There is an updated community-sourced version of the bias clusters too: [https://bias.transhumanity.net/act-fast/](https://bias.transhumanity.net/act-fast/)
 
 Second, we have prepared a set of [provocative scenario cards](https://chi-bias-trust.github.io/BiasClusters_ProblemScenarios.pdf) -- designed to get you thinking about where and how these biases surface in human-AI interactions (and what can be done about them in terms of better understanding, mitigating, and leveraging them). 
+
+## Workshop Participants and Submissions
+
+We thank those who contributed to our workshop. The list of participants and position papers is hosted [here](https://chi-bias-trust.github.io/participants.html). Your inputs have informed our activities :)
