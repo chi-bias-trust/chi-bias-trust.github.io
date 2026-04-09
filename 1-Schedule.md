@@ -45,3 +45,7 @@ First, a reading on the key cognitive bias clusters we'll be drawing on during t
 * Memory Limitations
 
 We'll be using these clusters explicitly during Activity 1, so it's worth having them in mind. You can read the full piece here: [https://buster.medium.com/cognitive-bias-cheat-sheet-55a472476b18](https://buster.medium.com/cognitive-bias-cheat-sheet-55a472476b18)
+
+There is an updated community-sourced version of the bias clusters too: [https://bias.transhumanity.net/act-fast/](https://bias.transhumanity.net/act-fast/)
+
+Second, we have prepared a set of [provocative scenario cards](https://chi-bias-trust.github.io/BiasClusters_ProblemScenarios.pdf) -- designed to get you thinking about where and how these biases surface in human-AI interactions (and what can be done about them in terms of better understanding, mitigating, and leveraging them). 
