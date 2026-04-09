@@ -39,9 +39,9 @@ This 90–minute workshop invites diverse researchers from HCI, human–centred 
 
 * Submission Deadline: February 12, 2026, 11:59 PM (Anywhere on Earth)
 * Notification: March 21, 2026 *(Submissions received before 12 Feb will be notified before 25 Feb, ahead of CHI 2026 early-bird registration deadline)*
-* Workshop Date: TBA (April 13-17, 2026)
+* Workshop Date: Monday 13th April (2:15-3:45PM, P1-Room 128)
 
-> **NOTE:** There is no additional Cost for Participation — CHI 2026 workshops are included with [conference registration](https://chi2026.acm.org/attendees/registration/) and do not require an additional fee for attendees.
+> **NOTE:** This workshop is open-door. Anyone who is registered for CHI 2026 can attend this workshop. There is no additional Cost for Participation — CHI 2026 workshops are included with [conference registration](https://chi2026.acm.org/attendees/registration/) and do not require an additional fee for attendees.
 
 We invite participants to submit a contribution in one of the following forms: 
 * an essay (1–2 pages) stating their research background and motivation for attending this workshop
