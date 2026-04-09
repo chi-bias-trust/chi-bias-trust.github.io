@@ -52,4 +52,4 @@ Second, we have prepared a set of [provocative scenario cards](https://chi-bias-
 
 ## Workshop Participants and Submissions
 
-We thank those who contributed to our workshop. The list of participants and position papers is hosted [here](https://chi-bias-trust.github.io/participants.html). Your inputs have informed our activities :)
+We thank those who contributed to our workshop. The list of position papers is hosted [here](https://chi-bias-trust.github.io/participants.html). Your inputs have informed our activities :)
