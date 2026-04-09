@@ -12,7 +12,7 @@ For inquiries regarding the workshop, please reach out to us via [bias4trust.chi
 # Key Dates
 * **Submission Deadline:** February 12, 2026, 11:59 PM (Anywhere on Earth)
 * **Notification:** March 21, 2026 *(Submissions received before 12 Feb will be notified by 25 Feb, ahead of CHI 2026 registration deadline)*
-* **Workshop Day:** TBA
+* **Workshop Day:** Monday 13th April (2:15-3:45PM, Venue: P1-Room 128)
 
 # Frequently Asked Questions
 * I don't have an accepted paper at CHI 2026. Can I attend this workshop?
